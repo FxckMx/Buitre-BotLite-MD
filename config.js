@@ -8,11 +8,11 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js' 
 
-//⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
+//⊱ ━━━━━.⋅ +34 616361194 | Suma los números para ser Propietario ⋅.━━━━ ⊰
 
-global.owner = [
-['523316968621', 'Buitre-OFC ', true], 
-['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+mundial  _  propietario   = [
+[ '523316968621' , '𝘼𝙙𝙤𝙧𝙖𝙗𝙡𝙚 𝘽𝙤𝙩🍙 ' , verdadero ],
+[ '523316968621' , '𝙊𝙬𝙣𝙚𝙧 (1) 💻' , verdadero ],  
 ['5521989092076', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
 
@@ -92,12 +92,12 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'Buitre Bot '
-global.author = 'Buitre Bot'
+mundial _ autor  =  '𝘼𝙙𝙤𝙧𝙖𝙗𝙡𝙚 𝘽𝙤𝙩🍙'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.official = [ // Agregate si eres Owner
-['523316968621', 'Buitre Dios 💻', 1], 
+mundial _ oficial  = [ // Agrega si eres Propietario
+[ '523316968621' , '𝘼𝙙𝙤𝙧𝙖𝙗𝙡𝙚 𝘽𝙤𝙩🍙' , 1 ],
 ['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['523316968621', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['523316968621', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
@@ -137,8 +137,8 @@ global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'Buitre Bot Lite 🌻 : Buitre OFC '
-global.igfg = 'Buitre Bot Lite'
+mundial       _       wm        =        '𝘼𝙙𝙤𝙧𝙖𝙗𝙡𝙚 𝘽𝙤𝙩🍙 Lite 🌻: 𝘼𝙙𝙤𝙧𝙖𝙗𝙡𝙚 𝘽𝙤𝙩🍙 OFC'
+mundial_igfg     =    '𝘼𝙙𝙤𝙧𝙖𝙗𝙡𝙚 𝘽𝙤𝙩🍙 Lite'     
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
